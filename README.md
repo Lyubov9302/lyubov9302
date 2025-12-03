@@ -16,7 +16,7 @@ This platform was created to help visitors easily find the perfect furniture for
   Responsive landing page for a creative digital agency, built with semantic HTML and modern CSS practices. Implements clear layout structure, service overview, team bio, project gallery, and a contact form to enhance client interaction.
 
   🗣️ Languages
-  ![English](https://img.shields.io/badge/English-Upper-Intermediate-blue?style=flat-square) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+  ![English](https://img.shields.io/badge/English-B2-blue?style=flat-square) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 📫 How to reach me:
 [LinkedIn](www.linkedin.com/in/lyubov-yurynets) | [Telegram](https://t.me/ly9302) | [Email](lyubovyurynets@gmail.com) 
