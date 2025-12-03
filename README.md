@@ -20,7 +20,7 @@ This platform was created to help visitors easily find the perfect furniture for
 
 📫 How to reach me:
 
-[LinkedIn](www.linkedin.com/in/lyubov-yurynets) | [Telegram](https://t.me/ly9302) | [Email](lyubovyurynets@gmail.com) 
+[LinkedIn](linkedin.com/in/lyubov-yurynets) | [Telegram](https://t.me/ly9302) | [Email](lyubovyurynets@gmail.com) 
 
 
 
